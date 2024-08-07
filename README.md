@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu repositório🖤
 
-<!--
-**naiaradasilva/naiaradasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Meu nome é Naiara**_Sou aluna_
 
-Here are some ideas to get you started:
+- Estudo na escola **Manley Lane**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cidade _São Roque_
+
+- ### Obrigada por você visitar ###
+- ![](https://media.tenor.com/7meeM167hn8AAAAM/billie-eilish-billie-nose-scruntch.gif)
+
+- ![](https://media.tenor.com/tJyK18R2CUMAAAAM/billie-eilish.gif)
+
+- !
