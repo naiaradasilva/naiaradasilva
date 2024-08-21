@@ -1,6 +1,6 @@
 ## Bem vindo ao meu repositório🖤
 
-- **Meu nome é Naiara**_Sou aluna_
+- **Meu nome é Naiara** _Sou aluna_
 
 - Estudo na escola **Manley Lane**
 
